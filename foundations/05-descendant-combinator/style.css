@@ -1,0 +1,6 @@
+div p {
+    background-color: yellow;
+    -webkit-text-fill-color: red;
+    font-size: 20px;
+    text-align: center;
+}
